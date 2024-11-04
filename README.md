@@ -17,4 +17,3 @@ scipy = 1.10.0
 scvi = 0.6.8
 anndata = 0.10.8
 ```
-# stGNN
