@@ -2,7 +2,7 @@
 
 Overview
 ===
-![Image text]([https://github.com/LiangSDNULab/stAGCN/blob/main/stAGCN.png](https://github.com/LiangSDNULab/stGNN/blob/main/stGNN.png))
+![Image text](https://github.com/LiangSDNULab/stGNN/blob/main/stGNN.png)
 
 
 Requirements
