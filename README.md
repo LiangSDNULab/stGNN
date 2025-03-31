@@ -19,4 +19,4 @@ anndata = 0.10.8
 ```
 Usage
 ===
-We have uploaded an example dataset of the Mouse Brain Anterior along with "mu_gene_expression.csv" and "disp_gene_expression.csv", which can be directly used by running the stgnn.py file.
+We have uploaded two stGNN output files ("mu_gene_expression.csv" and "disp_gene_expression.csv") generated from Mouse Brain Anterior datasets analysis, which can be directly utilized by running the stgnn.py script. The corresponding spatial transcriptomics (ST) dataset and single-cell RNA-seq dataset for Mouse Brain Anterior are available for download at: https://zenodo.org/record/6925603#.YuM5WXZBwuU.
