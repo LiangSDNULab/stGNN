@@ -17,3 +17,6 @@ scipy = 1.10.0
 scvi = 0.6.8
 anndata = 0.10.8
 ```
+Usage
+===
+We have uploaded an example dataset of the Mouse Brain Anterior along with "mu_gene_expression.csv" and "disp_gene_expression.csv", which can be directly used by running the stgnn.py file.
